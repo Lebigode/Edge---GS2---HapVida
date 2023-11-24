@@ -42,3 +42,5 @@ em um cliente MQTT ou em uma interface Node-RED configurada para assinar o tópi
 Você pode ver a simulação do projeto no Wokwi através do seguinte link: https://wokwi.com/projects/381976966332044289
 
 Link do vídeo no youtube: https://www.youtube.com/watch?v=IWypo3yJry8
+
+Link do repositório do git: https://github.com/Lebigode/Edge---GS2---HapVida
